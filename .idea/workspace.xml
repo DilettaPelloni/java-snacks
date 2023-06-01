@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd799817-73a1-4451-bf86-7e21d22d927e" name="Changes" comment="Per coerenza ho messo la consegna anche qua">
-      <change afterPath="$PROJECT_DIR$/src/snacks/Snack5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dd799817-73a1-4451-bf86-7e21d22d927e" name="Changes" comment="Terminato snack5">
+      <change afterPath="$PROJECT_DIR$/src/snacks/Snack6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +39,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Snack5">
-    <configuration name="Snack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="snacks.Snack1" />
-      <module name="java-snacks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="snacks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Snack6">
     <configuration name="Snack2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="snacks.Snack2" />
       <module name="java-snacks" />
@@ -106,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Snack6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snacks.Snack6" />
+      <module name="java-snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="snacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Snack6" />
         <item itemvalue="Application.Snack5" />
         <item itemvalue="Application.Snack4" />
         <item itemvalue="Application.Snack3" />
         <item itemvalue="Application.Snack2" />
-        <item itemvalue="Application.Snack1" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685627759309</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Terminato snack5">
+      <created>1685629927376</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685629927376</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,7 +217,8 @@
     <MESSAGE value="Terminato snack4" />
     <MESSAGE value="Chiuso Scanner" />
     <MESSAGE value="Per coerenza ho messo la consegna anche qua" />
-    <option name="LAST_COMMIT_MESSAGE" value="Per coerenza ho messo la consegna anche qua" />
+    <MESSAGE value="Terminato snack5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terminato snack5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -225,9 +232,18 @@
           </properties>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/snacks/Snack6.java</url>
+          <line>11</line>
+          <properties class="snacks.Snack6" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/snacks/Snack5.java</url>
-          <line>37</line>
+          <line>40</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
