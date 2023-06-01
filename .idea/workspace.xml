@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd799817-73a1-4451-bf86-7e21d22d927e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-snacks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/snacks/Snack8.java" afterDir="false" />
+    <list default="true" id="dd799817-73a1-4451-bf86-7e21d22d927e" name="Changes" comment="Terminato snack8">
+      <change afterPath="$PROJECT_DIR$/src/snacks/Snack9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +38,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Snack9">
     <configuration name="Snack8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="snacks.Snack8" />
       <module name="java-snacks" />
@@ -58,8 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Snack9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snacks.Snack9" />
+      <module name="java-snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="snacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Snack9" />
         <item itemvalue="Application.Snack8" />
       </list>
     </recent_temporary>
@@ -73,6 +81,44 @@
       <option name="presentableId" value="Default" />
       <updated>1685621411667</updated>
     </task>
+    <task id="LOCAL-00001" summary="Terminato snack8">
+      <created>1685624511959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685624511959</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Terminato snack8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terminato snack8" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/snacks/Snack9.java</url>
+          <line>3</line>
+          <properties class="snacks.Snack9" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
