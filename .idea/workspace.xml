@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd799817-73a1-4451-bf86-7e21d22d927e" name="Changes" comment="Terminato snack3">
-      <change afterPath="$PROJECT_DIR$/src/snacks/Snack4.java" afterDir="false" />
+    <list default="true" id="dd799817-73a1-4451-bf86-7e21d22d927e" name="Changes" comment="Per coerenza ho messo la consegna anche qua">
+      <change afterPath="$PROJECT_DIR$/src/snacks/Snack5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Snack4">
+  <component name="RunManager" selected="Application.Snack5">
     <configuration name="Snack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="snacks.Snack1" />
       <module name="java-snacks" />
@@ -93,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Snack9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="snacks.Snack9" />
+    <configuration name="Snack5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snacks.Snack5" />
       <module name="java-snacks" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Snack5" />
         <item itemvalue="Application.Snack4" />
         <item itemvalue="Application.Snack3" />
         <item itemvalue="Application.Snack2" />
         <item itemvalue="Application.Snack1" />
-        <item itemvalue="Application.Snack9" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +160,35 @@
       <option name="project" value="LOCAL" />
       <updated>1685626490230</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Terminato snack4">
+      <created>1685627481469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685627481469</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Chiuso Scanner">
+      <created>1685627645132</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685627645132</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Chiuso Scanner">
+      <created>1685627685936</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685627685936</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Per coerenza ho messo la consegna anche qua">
+      <created>1685627759309</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685627759309</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,19 +208,27 @@
     <MESSAGE value="Terminato snack1" />
     <MESSAGE value="Terminato snack2" />
     <MESSAGE value="Terminato snack3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Terminato snack3" />
+    <MESSAGE value="Terminato snack4" />
+    <MESSAGE value="Chiuso Scanner" />
+    <MESSAGE value="Per coerenza ho messo la consegna anche qua" />
+    <option name="LAST_COMMIT_MESSAGE" value="Per coerenza ho messo la consegna anche qua" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/snacks/Snack9.java</url>
-          <line>3</line>
+          <line>6</line>
           <properties class="snacks.Snack9" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/snacks/Snack5.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
