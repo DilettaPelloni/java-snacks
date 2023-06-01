@@ -15,5 +15,6 @@ public class Snack1 {
         } else {
             System.out.println(num + " è dispari, quindi stampo " + (num + 1));
         }
+        scan.close();
     }
 }
