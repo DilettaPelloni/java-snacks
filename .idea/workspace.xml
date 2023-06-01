@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd799817-73a1-4451-bf86-7e21d22d927e" name="Changes" comment="Terminato snack2">
-      <change afterPath="$PROJECT_DIR$/src/snacks/Snack3.java" afterDir="false" />
+    <list default="true" id="dd799817-73a1-4451-bf86-7e21d22d927e" name="Changes" comment="Terminato snack3">
+      <change afterPath="$PROJECT_DIR$/src/snacks/Snack4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Snack3">
+  <component name="RunManager" selected="Application.Snack4">
     <configuration name="Snack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="snacks.Snack1" />
       <module name="java-snacks" />
@@ -79,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Snack8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="snacks.Snack8" />
+    <configuration name="Snack4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snacks.Snack4" />
       <module name="java-snacks" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Snack4" />
         <item itemvalue="Application.Snack3" />
         <item itemvalue="Application.Snack2" />
         <item itemvalue="Application.Snack1" />
         <item itemvalue="Application.Snack9" />
-        <item itemvalue="Application.Snack8" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685625904269</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Terminato snack3">
+      <created>1685626490230</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685626490230</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,7 +179,8 @@
     <MESSAGE value="Terminato snack9" />
     <MESSAGE value="Terminato snack1" />
     <MESSAGE value="Terminato snack2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Terminato snack2" />
+    <MESSAGE value="Terminato snack3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terminato snack3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
