@@ -22,10 +22,22 @@ public class Snack5 {
                 int numCounter = 0;
                 int symCounter = 0;
 
+                //soluzione punk
+//                for (int i = 0; i < userInput.length(); i++) {
+//                    if((userInput.toLowerCase().charAt(i) >= 'a' && userInput.toLowerCase().charAt(i) <= 'z')) {
+//                        alfaCounter ++;
+//                    } else if ((userInput.charAt(i) >= '0' && userInput.charAt(i) <= '9')) {
+//                        numCounter++;
+//                    } else {
+//                        symCounter++;
+//                    }
+//                }
+
+                //soluzione con metodi
                 for (int i = 0; i < userInput.length(); i++) {
-                    if((userInput.toLowerCase().charAt(i) >= 'a' && userInput.toLowerCase().charAt(i) <= 'z')) {
+                    if(Character.isAlphabetic(userInput.charAt(i))) {
                         alfaCounter ++;
-                    } else if ((userInput.charAt(i) >= '0' && userInput.charAt(i) <= '9')) {
+                    } else if (Character.isDigit(userInput.charAt(i))) {
                         numCounter++;
                     } else {
                         symCounter++;
