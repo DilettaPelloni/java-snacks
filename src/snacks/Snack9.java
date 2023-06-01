@@ -1,5 +1,8 @@
 package snacks;
 
+//CONSEGNA
+//Calcola la somma e la media dei primi 10 numeri.
+
 public class Snack9 {
     public static void main(String[] args) {
 
