@@ -11,10 +11,12 @@ package snacks;
 public class Snack6 {
     public static void main(String[] args) {
 
-        final String S_NUM = "25";
+        final String S_NUM = "350";
         int num = 0;
+        int sum = 0;
+        int counter = 0;
 
-        for (int i = 0; i < S_NUM.length(); i++) {
+        for (int i = S_NUM.length() - 1; i >= 0; i--) {
             switch (S_NUM.charAt(i)) {
                 case '1':
                     num = 1;
@@ -47,8 +49,12 @@ public class Snack6 {
                     num = 0;
                     break;
             }
+
+            num = num * (int)Math.pow(10, counter);
+            sum += num;
+            counter++;
         }
 
-        System.out.println(num);
+        System.out.println(sum);
     }
 }

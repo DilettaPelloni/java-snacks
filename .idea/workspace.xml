@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd799817-73a1-4451-bf86-7e21d22d927e" name="Changes" comment="Per ora funziona solo con numeri a 1 cifra">
-      <change afterPath="$PROJECT_DIR$/src/snacks/Snack7.java" afterDir="false" />
+    <list default="true" id="dd799817-73a1-4451-bf86-7e21d22d927e" name="Changes" comment="Terminato snack7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snacks/Snack6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/snacks/Snack6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Snack7">
+  <component name="RunManager" selected="Application.Snack6">
     <configuration name="Snack3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="snacks.Snack3" />
       <module name="java-snacks" />
@@ -108,8 +108,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Snack7" />
         <item itemvalue="Application.Snack6" />
+        <item itemvalue="Application.Snack7" />
         <item itemvalue="Application.Snack5" />
         <item itemvalue="Application.Snack4" />
         <item itemvalue="Application.Snack3" />
@@ -202,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685631006161</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Terminato snack7">
+      <created>1685632879219</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1685632879219</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,7 +234,8 @@
     <MESSAGE value="Per coerenza ho messo la consegna anche qua" />
     <MESSAGE value="Terminato snack5" />
     <MESSAGE value="Per ora funziona solo con numeri a 1 cifra" />
-    <option name="LAST_COMMIT_MESSAGE" value="Per ora funziona solo con numeri a 1 cifra" />
+    <MESSAGE value="Terminato snack7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terminato snack7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -245,6 +253,16 @@
           <url>file://$PROJECT_DIR$/src/snacks/Snack5.java</url>
           <line>40</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/snacks/Snack6.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/snacks/Snack6.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
