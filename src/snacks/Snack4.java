@@ -26,5 +26,7 @@ public class Snack4 {
         } else {
             System.out.println("La stringa " + s + " non è palindroma");
         }
+
+        scan.close();
     }
 }
